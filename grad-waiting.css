@@ -40,9 +40,10 @@ a {
 /* General styling */
 body {
     margin:             20px 80px 60px;
-    font-size:          18px;
+    font-size:          24px;
     line-height:        1.4;
     font-family:        'league_spartanregular', Helvetica, sans-serif;
+    text-align:         center;
     }
 
 header {
@@ -52,11 +53,12 @@ header {
     text-align:         center;
     }
 
-.special {
+.refresh {
     border:             3px solid black;
     padding:            10px;
     margin:             40px 0;
     font-size:          14px;
+    text-align:         center;
 
 }
 
